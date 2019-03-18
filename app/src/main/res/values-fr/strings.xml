@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Choice</string>
+    <string name="victory">FELICITATIONS</string>
+    <string name="lose">PERDU</string>
+    <string name="play">jouer</string>
+    <string name="how_to_play">comment jouer</string>
+    <string name="how_to_play_text">ce jeu consiste à choisir chaque fois le plus petit chiffre de la grille et de les terminer le plus tôt possible.\n
+    Attention! un mauvais choix affectera votre score</string>
+    <string name="sound">Son </string>
+    <string name="best_score">MEILLEUR SCORE</string>
+
+    <string name="nick_name_ok_button">ok</string>
+    <string name="nick_name_text">choisir un nom:</string>
+    <string name="no_internet_text">pas de connexion internet, vérifier votre connexion à internet.</string>
+    <string name="no_internet_button_refresh">réessayer</string>
+    <string name="no_internet_button_close">fermer</string>
+    <string name="nick_name_annuler_button">annuler</string>
+    <string name="load_scores_text">vous avez d'anciens scores enregistrés dans notre serveur, voulez-vous les charger?</string>
+    <string name="load_scores_yes">oui</string>
+    <string name="load_scores_no">non</string>
+    <string name="name_verification">le nom doit seulement contenir des chiffres,des lettres,_ ou -</string>
+    />
+
+</resources>

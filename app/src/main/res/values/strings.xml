@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Choice</string>
+    <string name="victory">YOU WIN</string>
+    <string name="lose">YOU LOSE</string>
+    <string name="play">play</string>
+    <string name="how_to_play">how to play</string>
+    <string name="how_to_play_text">This game consists on choosing each time the smallest number of the
+        grid and finish them as soon as possible.\n a bad choice will affect your score</string>
+    <string name="sound">Sound </string>
+    <string name="best_score">BEST SCORE</string>
+    <string name="no_internet_text">no internet connexion,please connect to inernet and refresh</string>
+    <string name="no_internet_button_refresh">refresh</string>
+    <string name="no_internet_button_close">close</string>
+    <string name="nick_name_ok_button">ok</string>
+    <string name="nick_name_text">choose a nick name:</string>
+    <string name="nick_name_annuler_button">cancel</string>
+    <string name="load_scores_text">you have old scores saved in our server, do you want to load them?</string>
+    <string name="load_scores_yes">yes</string>
+    <string name="load_scores_no">no</string>
+    <string name="name_verification">the name must only contain numbers, letters, _ or -"</string>
+    />
+</resources>

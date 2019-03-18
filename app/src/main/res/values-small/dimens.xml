@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="HEAD_BAR_HEIGHT">50dp</dimen>
+    <dimen name="play_text_size">38sp</dimen>
+    <dimen name="how_to_play_text_size">34sp</dimen>
+    <dimen name="coin_img_width">30dp</dimen>
+    <dimen name="coin_img_height">30dp</dimen>
+    <dimen name="total_score_text_size">13sp</dimen>
+    <dimen name="cellule_button_width">92dp</dimen>
+    <dimen name="cellule_button_height">92dp</dimen>
+    <dimen name="number_level_text_size">26sp</dimen>
+    <dimen name="img_button_width">45dp</dimen>
+    <dimen name="img_button_height">45dp</dimen>
+    <dimen name="home_button_width">43dp</dimen>
+    <dimen name="home_button_height">35dp</dimen>
+    <dimen name="cellule_text_size">14sp</dimen>
+    <dimen name="layout_margin_left">10dp</dimen>
+    <dimen name="layout_margin_right">10dp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="result_home_size">40dp</dimen>
+    <dimen name="result_next_size">52dp</dimen>
+    <dimen name="bottom_bar_height">23dp</dimen>
+    <dimen name="sound_text_size">15sp</dimen>
+    <dimen name="fragment_text_size">24sp</dimen>
+    <dimen name="nick_name_text_size">21sp</dimen>
+    <dimen name="player_rank_text_size" >18sp</dimen>
+    <dimen name="player_score_text_size" >15sp</dimen>
+
+</resources>

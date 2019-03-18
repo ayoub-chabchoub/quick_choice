@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Choice</string>
+    <string name="victory">ربحت</string>
+    <string name="lose">خسرت</string>
+    <string name="play">إبدأ</string>
+    <string name="how_to_play">كيفية اللعب</string>
+    <string name="how_to_play_text">هذه اللعبة تنص على اختيار أصغر عدد من الشبكة  كل مرة والانتهاء منها في أسرع وقت ممكن. \n سيؤثر خيار سيئ على نتيجتك</string>
+    <string name="sound">الصوت </string>
+    <string name="best_score">أفضل نتيجة</string>
+
+    <string name="nick_name_ok_button">choose a nick name:</string>
+    <string name="nick_name_text">اختر اسمك في اللعبة:</string>
+    <string name="no_internet_text">تثبت من إتصالك بالإنترنت</string>
+    <string name="no_internet_button_refresh">réessayer</string>
+    <string name="no_internet_button_close">fermer</string>
+    <string name="nick_name_annuler_button"></string>
+    <string name="load_scores_text" >هل تريد استرجاع نتائجك القديمة؟</string>
+    <string name="load_scores_yes">نعم</string>
+    <string name="load_scores_no">لا</string>
+    />
+</resources>

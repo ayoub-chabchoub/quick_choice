@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="result_label" parent="@android:style/TextAppearance.Holo.Large">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">#EEEEEE</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+</resources>
